@@ -5,4 +5,5 @@ public class TravelBoardController {
 	
 	//새로운 컨트롤러 작성
 	
+	//작업작업작업
 }
